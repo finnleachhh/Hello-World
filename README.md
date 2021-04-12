@@ -1,2 +1,13 @@
-# Hello-World! Exercise #1
-<a href="https://www.w3schools.com/code/tryit.asp?filename=GPHJDQ6517R5">Exercise #1</a><br>
+<html>
+	<head>
+		<title>Hello World!</title>
+	</head>
+
+	<body>
+		<h1>Week #1</h1>
+		<h2>Created by: Finn Leach</h2>
+
+		<p>
+		Hello World! How are you doing?<br>
+
+</html>
